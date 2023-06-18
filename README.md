@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Forked Repo
+This forked repo has the changes made according to the new class diagram provided
